@@ -38,3 +38,15 @@ This repository provides a comprehensive exploration of Edge AI, offering insigh
    - Storage and Transmission Optimization for Large Models
    - Deployment Challenges and Solutions
    - Applications of Large Models on Edge Devices
+
+
+### Open Source Edge Models
+| Model           | Org | Time | &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Description       | Download |
+|:-----------|:--:|:-----------:|:-------------------|:---------------:|
+| MiniCPM-V 2.6 8B | OpenBMB | 2024.8.6 | A GPT-4V Level vLLM |  [🤗](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
+
+
+
+
+
+
