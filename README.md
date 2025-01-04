@@ -44,7 +44,7 @@ This repository provides a comprehensive exploration of Edge AI, offering insigh
 | Model           | Size | Org | Time | Description | Download |
 |:-----------|:--:|:--:|-----------:|:-------------------|:---------------:|
 | MiniCPM-V 2.6 | 8B | OpenBMB | 2024.8.6 | A GPT-4V Level vLLM |  [🤗](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
-| InternVL 2.5 | 8B | Shanghai AI Lab ｜2024.12.22 ｜A Pioneering Open-Source Alternative to GPT-4o | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) |
+| InternVL 2.5 | 8B | Shanghai AI Lab | 2024.12.22 | A Pioneering Open-Source Alternative to GPT-4o | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) |
 
 
 
