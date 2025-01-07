@@ -10,27 +10,19 @@ This repository provides a comprehensive exploration of Edge AI, offering insigh
 **Hardware**
    - Introduction to Edge Devices (e.g., Raspberry Pi, Jetson, etc.)
    - Processing Units (e.g., CPU, GPU, TPU, NPU, etc.)
-   - Storage and Network Components
-
-**Software**
-   - Operating Systems and Platforms (e.g., Linux, RTOS)
-   - Drivers and Middleware
-   - Open-source Software Libraries (e.g., TensorFlow Lite, ONNX Runtime)
 
 **Frameworks**
-   - Edge AI Frameworks (e.g., NVIDIA TensorRT, OpenVINO)
-   - Support for Deep Learning Frameworks
+   - Edge AI Frameworks (e.g., OpenVINO, vLLM, ollama)
 
 **Applications**
    - Smart Homes
    - Internet of Things (IoT)
    - Autonomous Driving
-   - Industrial Automation
+   - AI Glasses
 
 **Performance Optimization**
    - Model Compression and Quantization
    - Edge Computing Acceleration
-   - Battery Life and Resource Management
 
 **Large Models on Edge**
    - Model Pruning and Distillation Techniques
@@ -43,9 +35,12 @@ This repository provides a comprehensive exploration of Edge AI, offering insigh
 ### Open Source Edge Models
 | Model           | Size | Org | Time  | Download |
 |:-----------|:--:|:--:|-----------:|:---------------:|
-| MiniCPM-V 2.6 | 8B | OpenBMB | 2024.8.6 |  [🤗](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
-| InternVL 2.5 | 8B | Shanghai AI Lab | 2024.12.22 | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) |
 | VITA-1.5 | 7B | VITA | 2025.1.6 | [![Star](https://img.shields.io/github/stars/agentsea/surfkit.svg?style=social&label=Star)](https://github.com/VITA-MLLM/VITA)|
+| InternVL 2.5 | 8B | Shanghai AI Lab | 2024.12.22 |[![Star](https://img.shields.io/github/stars/agentsea/surfkit.svg?style=social&label=Star)](https://github.com/OpenGVLab/InternVL) [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) |
+| MiniCPM-V 2.6 | 8B | OpenBMB | 2024.8.6 |  [![Star](https://img.shields.io/github/stars/agentsea/surfkit.svg?style=social&label=Star)](https://github.com/OpenBMB/MiniCPM-V) [🤗](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
+
+
+
 
 
 
