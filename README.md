@@ -41,11 +41,11 @@ This repository provides a comprehensive exploration of Edge AI, offering insigh
 
 
 ### Open Source Edge Models
-| Model           | Size | Org | Time | Description | Download |
-|:-----------|:--:|:--:|-----------:|:-------------------|:---------------:|
-| MiniCPM-V 2.6 | 8B | OpenBMB | 2024.8.6 | A GPT-4V Level vLLM |  [🤗](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
-| InternVL 2.5 | 8B | Shanghai AI Lab | 2024.12.22 | A Pioneering Open-Source Alternative to GPT-4o | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) |
-
+| Model           | Size | Org | Time  | Download |
+|:-----------|:--:|:--:|-----------:|:---------------:|
+| MiniCPM-V 2.6 | 8B | OpenBMB | 2024.8.6 |  [🤗](https://huggingface.co/openbmb/MiniCPM-V-2_6) |
+| InternVL 2.5 | 8B | Shanghai AI Lab | 2024.12.22 | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) |
+| VITA-1.5 | 7B | VITA | 2025.1.6 | [![Star](https://img.shields.io/github/stars/agentsea/surfkit.svg?style=social&label=Star)](https://github.com/VITA-MLLM/VITA)|
 
 
 
