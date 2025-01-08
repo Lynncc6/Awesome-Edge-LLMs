@@ -63,7 +63,7 @@ The listed models are base model limited to either of the following:
 | [Ray-Ban](https://www.ray-ban.com/usa) | Meta | Meta AI | 2023.9 | $299 | 
 | 雷鸟V3 | 雷鸟创新 | Qwen | 2025.1.7 | ¥ 1799 + | 
 | Rokid Glasses | Rokid | Qwen | 2024.11.18 | ¥2499 |
-| 闪极拍拍镜 | 闪极科技 ｜ Qwen Kimi GLM etc. | 2024.12.19 ｜ ¥999 + ｜
+| 闪极拍拍镜 | 闪极科技 | Qwen Kimi GLM etc. | 2024.12.19 | ¥999 + ｜
 
 
 
