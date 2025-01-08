@@ -36,10 +36,10 @@ The listed models are base model limited to either of the following:
 |:---:|:---:|:---:|:---:|
 | [DashInfer-VLM](https://github.com/modelscope/dash-infer) | 2025.1 | ModelScope | [📖](https://dashinfer.readthedocs.io/en/latest/vlm/vlm_offline_inference_en.html) |
 | SparseInfer | 2024.11 | University of Seoul, etc |  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.12692) |
-| [vLLM] (https://github.com/vllm-project/vllm) | 2023.9 | UC Berkeley, etc | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.06180.pdf) | 
+| [vLLM](https://github.com/vllm-project/vllm) | 2023.9 | UC Berkeley, etc | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.06180.pdf) | 
 | [Ollama](https://github.com/ollama/ollama) | 2023.8 | Ollama Inc | - | 
 | [Mooncake](https://github.com/kvcache-ai/Mooncake) | 2024.6 | Moonshot AI | [📖](https://flashinfer.ai/2024/02/02/cascade-inference.html)
-| [LMDeploy]((https://github.com/InternLM/lmdeploy) | 2023.6 | InternLM | [📖](https://lmdeploy.readthedocs.io/en/latest/) |
+| [LMDeploy](https://github.com/InternLM/lmdeploy) | 2023.6 | InternLM | [📖](https://lmdeploy.readthedocs.io/en/latest/) |
 
 
 
