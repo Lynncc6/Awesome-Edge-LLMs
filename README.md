@@ -42,8 +42,8 @@ The listed models are base model limited to either of the following:
 | [vLLM](https://github.com/vllm-project/vllm) | 2023.9 | UC Berkeley, etc | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.06180.pdf) | [📖](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf) |
 | [MLC-LLM](https://github.com/mlc-ai/mlc-llm) | 2023.5 | mlc-ai | [📖](https://llm.mlc.ai/)  |
 | [Ollama](https://github.com/ollama/ollama) | 2023.8 | Ollama Inc | - | 
-
 | [LMDeploy](https://github.com/InternLM/lmdeploy) | 2023.6 | InternLM | [📖](https://lmdeploy.readthedocs.io/en/latest/) |
+
 
 
 
@@ -66,19 +66,39 @@ The listed models are base model limited to either of the following:
 ## Processor
 ### NVIDIA
 
-50 Series
+50 Series @2025
 
-| GPU Engine Specs       | GeForce RTX 5090       | GeForce RTX 5080       | GeForce RTX 5070 Ti    | GeForce RTX 5070       |
-|-------------------------|------------------------|-------------------------|-------------------------|------------------------|
+|        | GeForce RTX 5090       | GeForce RTX 5080       | GeForce RTX 5070 Ti    | GeForce RTX 5070       |
+|:-------------------------:|:------------------------:|:-------------------------:|:-------------------------:|:------------------------:|
 | NVIDIA CUDA Cores       | 21760                 | 10752                  | 8960                   | 6144                  |
 | Shader Cores            | Blackwell             | Blackwell              | Blackwell              | Blackwell             |
 | Tensor Cores (AI)       | 5th Generation<br> 3352 AI TOPS         | 5th Generation <br> 1801 AI TOPS        | 5th Generation<br>1406 AI TOPS    | 5th Generation<br> 988 AI TOPS     |
 | Ray Tracing Cores       | 4th Generation<br>318 TFLOPS          | 4th Generation<br>171 TFLOPS          | 4th Generation<br>133 TFLOPS          | 4th Generation<br>94 TFLOPS        |
 | Boost Clock (GHz)       | 2.41                  | 2.62                   | 2.45                   | 2.51                  |
 | Base Clock (GHz)        | 2.01                  | 2.30                   | 2.30                   | 2.16                  |
-| Memory Specs            |      |     |     |        |
 | Standard Memory Config  | 32 GB GDDR7           | 16 GB GDDR7            | 16 GB GDDR7            | 12 GB GDDR7           |
 | Memory Interface Width  | 512-bit               | 256-bit                | 256-bit                | 192-bit               |
+| Price                   | $1999                 | $999                   | $749                   | $549                   |
+
+40 Super Series @2024
+
+
+40 Series @2022
+
+| GPU Specs               | GeForce RTX 4090       | GeForce RTX 4080      | GeForce RTX 4070 Ti    | GeForce RTX 4070      | GeForce RTX 4060 Ti   | GeForce RTX 4060      |
+|-------------------------|------------------------|------------------------|------------------------|-----------------------|-----------------------|
+| NVIDIA CUDA Cores       | 16384                 | 9728                  | 7680                  | 5888                 | 4352                 | 3072                 |
+| Shader Cores            | Ada Lovelace          | Ada Lovelace          | Ada Lovelace          | Ada Lovelace         | Ada Lovelace         | Ada Lovelace         |
+| Tensor Cores (AI)       | 4th Gen<br>330 AI TFLOPS | 4th Gen<br>200 AI TFLOPS | 4th Gen<br>150 AI TFLOPS | 4th Gen<br>100 AI TFLOPS | 4th Gen<br>90 AI TFLOPS | 4th Gen<br>60 AI TFLOPS |
+| Ray Tracing Cores       | 3rd Gen<br>191 TFLOPS | 3rd Gen<br>112 TFLOPS | 3rd Gen<br>92 TFLOPS  | 3rd Gen<br>64 TFLOPS | 3rd Gen<br>54 TFLOPS | 3rd Gen<br>35 TFLOPS |
+| Boost Clock (GHz)       | 2.52                  | 2.51                  | 2.61                 | 2.48                 | 2.54                 | 2.42                 |
+| Base Clock (GHz)        | 2.23                  | 2.21                  | 2.31                 | 1.92                 | 2.31                 | 1.83                 |
+| Standard Memory Config  | 24 GB GDDR6X          | 16 GB GDDR6X          | 12 GB GDDR6X          | 12 GB GDDR6X         | 8 GB GDDR6           | 8 GB GDDR6           |
+| Memory Interface Width  | 384-bit               | 256-bit               | 192-bit               | 192-bit              | 128-bit              | 128-bit              |
+| Graphics Card Power (W) | 450W                  | 320W                  | 285W                  | 200W                 | 160W                 | 115W                 |
+| Recommended PSU (W)     | 850W                  | 750W                  | 700W                  | 650W                 | 550W                 | 450W                 |
+|  Price (USD)      | $1,599                | $1,199                | $799                  | $599                 | $399 (8GB)<br>$499 (16GB) | $299                 |
+
 
 
 
