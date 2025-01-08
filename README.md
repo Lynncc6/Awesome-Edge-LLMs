@@ -51,17 +51,12 @@ The listed models are base model limited to either of the following:
 |Date|Title|Paper|Code|
 |:---:|:---:|:---:|:---:|
 | 2024.01 | [inferflow] INFERFLOW: AN EFFICIENT AND HIGHLY CONFIGURABLE INFERENCE ENGINE FOR LARGE LANGUAGE MODELS (@Tencent AI Lab) | [[pdf]](https://arxiv.org/pdf/2401.08294.pdf) | [![Stars](https://img.shields.io/github/stars/inferflow/inferflow.svg?style=social)](https://github.com/inferflow/inferflow) |
-
 | 2023.12 | [**PETALS**] Distributed Inference and Fine-tuning of Large Language Models Over The Internet (@HSE University, etc) | [[pdf]](https://arxiv.org/pdf/2312.08361.pdf) | [![Stars](https://img.shields.io/github/stars/bigscience-workshop/petals.svg?style=social)](https://github.com/bigscience-workshop/petals) |
 | 2023.10 | [**TensorRT-LLM**] NVIDIA TensorRT LLM (@NVIDIA) | [[docs]](https://nvidia.github.io/TensorRT-LLM/) | [![Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social)](https://github.com/NVIDIA/TensorRT-LLM) |
 | 2023.10 | [LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers (@UC Berkeley, etc) | [[pdf]](https://arxiv.org/pdf/2310.03294.pdf) | [![Stars](https://img.shields.io/github/stars/RulinShao/LightSeq.svg?style=social)](https://github.com/RulinShao/LightSeq) |
 | 2023.09 | [StreamingLLM] EFFICIENT STREAMING LANGUAGE MODELS WITH ATTENTION SINKS (@Meta AI, etc) | [[pdf]](https://arxiv.org/pdf/2309.17453.pdf) | [![Stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social)](https://github.com/mit-han-lab/streaming-llm) |
-
 | 2023.09 | [Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads (@Tianle Cai, etc) | [[blog]](https://sites.google.com/view/medusa-llm) | [![Stars](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)](https://github.com/FasterDecoding/Medusa) |
-
 | 2023.08 | [**LightLLM**] LightLLM is a Python-based LLM (Large Language Model) inference and serving framework (@ModelTC) | [[docs]](https://github.com/ModelTC/lightllm) | [![Stars](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social)](https://github.com/ModelTC/lightllm) |
-
-
 | 2023.05 | [**SpecInfer**] Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification (@Peking University, etc) | [[pdf]](https://arxiv.org/pdf/2305.09781.pdf) | [![Stars](https://img.shields.io/github/stars/flexflow/FlexFlow.svg?style=social)](https://github.com/flexflow/FlexFlow/tree/inference) |
 | 2023.05 | [**FastServe**] Fast Distributed Inference Serving for Large Language Models (@Peking University, etc) | [[pdf]](https://arxiv.org/pdf/2305.05920.pdf) | - |
 | 2023.03 | [FlexGen] High-Throughput Generative Inference of Large Language Models with a Single GPU (@Stanford University, etc) | [[pdf]](https://arxiv.org/pdf/2303.06865.pdf) | [![Stars](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)](https://github.com/FMInference/FlexGen) |
@@ -77,15 +72,11 @@ The listed models are base model limited to either of the following:
 |-------------------------|------------------------|-------------------------|-------------------------|------------------------|
 | NVIDIA CUDA Cores       | 21760                 | 10752                  | 8960                   | 6144                  |
 | Shader Cores            | Blackwell             | Blackwell              | Blackwell              | Blackwell             |
-| Tensor Cores (AI)       | 5th Generation        | 5th Generation         | 5th Generation         | 5th Generation        |
-|                         | 3352 AI TOPS          | 1801 AI TOPS           | 1406 AI TOPS           | 988 AI TOPS           |
-| Ray Tracing Cores       | 4th Generation        | 4th Generation         | 4th Generation         | 4th Generation        |
-|                         | 318 TFLOPS            | 171 TFLOPS             | 133 TFLOPS             | 94 TFLOPS             |
+| Tensor Cores (AI)       | 5th Generation<br> 3352 AI TOPS         | 5th Generation <br> 1801 AI TOPS        | 5th Generation<br>1406 AI TOPS    | 5th Generation<br> 988 AI TOPS     |
+| Ray Tracing Cores       | 4th Generation<br>318 TFLOPS          | 4th Generation<br>171 TFLOPS          | 4th Generation<br>133 TFLOPS          | 4th Generation<br>94 TFLOPS        |
 | Boost Clock (GHz)       | 2.41                  | 2.62                   | 2.45                   | 2.51                  |
 | Base Clock (GHz)        | 2.01                  | 2.30                   | 2.30                   | 2.16                  |
-
 | Memory Specs            |      |     |     |        |
-
 | Standard Memory Config  | 32 GB GDDR7           | 16 GB GDDR7            | 16 GB GDDR7            | 12 GB GDDR7           |
 | Memory Interface Width  | 512-bit               | 256-bit                | 256-bit                | 192-bit               |
 
