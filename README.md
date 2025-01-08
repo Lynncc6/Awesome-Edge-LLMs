@@ -85,8 +85,10 @@ The listed models are base model limited to either of the following:
 
 40 Series @2022
 
-| GPU Specs                GeForce RTX 4090       | GeForce RTX 4080      | GeForce RTX 4070 Ti    | GeForce RTX 4070      | GeForce RTX 4060 Ti   | GeForce RTX 4060      |
-|-------------------------|------------------------|------------------------|------------------------|-----------------------|-----------------------|
+# NVIDIA GeForce RTX 40 Series Specs and Prices
+
+| GPU Specs               | GeForce RTX 4090       | GeForce RTX 4080      | GeForce RTX 4070 Ti    | GeForce RTX 4070      | GeForce RTX 4060 Ti   | GeForce RTX 4060 |  
+|:-------------------------:|:------------------------:|:------------------------:|:------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | NVIDIA CUDA Cores       | 16384                 | 9728                  | 7680                  | 5888                 | 4352                 | 3072                 |
 | Shader Cores            | Ada Lovelace          | Ada Lovelace          | Ada Lovelace          | Ada Lovelace         | Ada Lovelace         | Ada Lovelace         |
 | Tensor Cores (AI)       | 4th Gen<br>330 AI TFLOPS | 4th Gen<br>200 AI TFLOPS | 4th Gen<br>150 AI TFLOPS | 4th Gen<br>100 AI TFLOPS | 4th Gen<br>90 AI TFLOPS | 4th Gen<br>60 AI TFLOPS |
@@ -97,8 +99,7 @@ The listed models are base model limited to either of the following:
 | Memory Interface Width  | 384-bit               | 256-bit               | 192-bit               | 192-bit              | 128-bit              | 128-bit              |
 | Graphics Card Power (W) | 450W                  | 320W                  | 285W                  | 200W                 | 160W                 | 115W                 |
 | Recommended PSU (W)     | 850W                  | 750W                  | 700W                  | 650W                 | 550W                 | 450W                 |
-|  Price (USD)      | $1,599                | $1,199                | $799                  | $599                 | $399 (8GB)<br>$499 (16GB) | $299                 |
-
+| Launch Price (USD)      | $1,599                | $1,199                | $799                  | $599                 | $399 (8GB)<br>$499 (16GB) | $299            |
 
 
 
