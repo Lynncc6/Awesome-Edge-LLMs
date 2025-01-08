@@ -66,7 +66,7 @@ The listed models are base model limited to either of the following:
 ## Processor
 ### NVIDIA
 
-50 Series @2025
+✅ 50 Series @2025
 
 |        | GeForce RTX 5090       | GeForce RTX 5080       | GeForce RTX 5070 Ti    | GeForce RTX 5070       |
 |:-------------------------:|:------------------------:|:-------------------------:|:-------------------------:|:------------------------:|
@@ -80,12 +80,10 @@ The listed models are base model limited to either of the following:
 | Memory Interface Width  | 512-bit               | 256-bit                | 256-bit                | 192-bit               |
 | Price                   | $1999                 | $999                   | $749                   | $549                   |
 
-40 Super Series @2024
+✅ 40 Super Series @2024
 
 
-40 Series @2022
-
-# NVIDIA GeForce RTX 40 Series Specs and Prices
+✅ 40 Series @2022
 
 | GPU Specs               | GeForce RTX 4090       | GeForce RTX 4080      | GeForce RTX 4070 Ti    | GeForce RTX 4070      | GeForce RTX 4060 Ti   | GeForce RTX 4060 |  
 |:-------------------------:|:------------------------:|:------------------------:|:------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
