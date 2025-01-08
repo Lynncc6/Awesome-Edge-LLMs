@@ -1,4 +1,4 @@
-# 🔍 The-State-of-Edge-AI 
+# 🔍 Awesome Edge LLMs 
 A comprehensive survey on Edge AI，covering hardware, software, frameworks, applications, performance optimization, and the deployment of LLMs on edge devices.
 
 
@@ -53,3 +53,33 @@ The listed models are base model limited to either of the following:
 | 2023.05 | [**FastServe**] Fast Distributed Inference Serving for Large Language Models (@Peking University, etc) | [[pdf]](https://arxiv.org/pdf/2305.05920.pdf) | ⚠️ |
 | 2023.03 | [FlexGen] High-Throughput Generative Inference of Large Language Models with a Single GPU (@Stanford University, etc) | [[pdf]](https://arxiv.org/pdf/2303.06865.pdf) | [![Stars](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)](https://github.com/FMInference/FlexGen) |
 | 2020.05 | [**Megatron-LM**] Training Multi-Billion Parameter Language Models Using Model Parallelism (@NVIDIA) | [[pdf]](https://arxiv.org/pdf/1909.08053.pdf) | [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)](https://github.com/NVIDIA/Megatron-LM) |
+
+
+## Hardware Applications
+
+### AI Glasses
+| Name  | Company | Model | Time  |  Price |
+|:--:|:--:|:-----------:|:---------------:|:---------------:|
+| [Ray-Ban](https://www.ray-ban.com/usa) | Meta | Meta AI | 2023.9 | $299 | 
+| 雷鸟V3 | 雷鸟创新 | Qwen | 2025.1.7 | ¥ 1799 + | 
+| Rokid Glasses | Rokid | Qwen | 2024.11.18 | ¥2499 |
+| 闪极拍拍镜 | 闪极科技 ｜ Qwen Kimi GLM etc. | 2024.12.19 ｜ ¥999 + ｜
+
+
+
+
+
+
+
+References:
+[数字生命卡兹克- AI硬件大全](https://datakhazix.feishu.cn/wiki/Zfp6wzb8eivwMqkSNgLcuiExnJd) @数字生命卡兹克
+
+
+
+
+
+
+
+
+
+
