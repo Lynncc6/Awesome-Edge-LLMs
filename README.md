@@ -71,7 +71,14 @@ The listed models are base model limited to either of the following:
 
 
 
-References:
+### References
+@misc{Awesome-LLM-Inference@2024,
+  title={Awesome-LLM-Inference: A curated list of Awesome LLM Inference Papers with codes},
+  url={https://github.com/DefTruth/Awesome-LLM-Inference},
+  note={Open-source software available at https://github.com/DefTruth/Awesome-LLM-Inference},
+  author={DefTruth, liyucheng09 etc},
+  year={2024}
+}
 [数字生命卡兹克- AI硬件大全](https://datakhazix.feishu.cn/wiki/Zfp6wzb8eivwMqkSNgLcuiExnJd) @数字生命卡兹克
 
 
