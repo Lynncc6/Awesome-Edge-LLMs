@@ -85,7 +85,7 @@ The listed models are base model limited to either of the following:
 
 40 Series @2022
 
-| GPU Specs               | GeForce RTX 4090       | GeForce RTX 4080      | GeForce RTX 4070 Ti    | GeForce RTX 4070      | GeForce RTX 4060 Ti   | GeForce RTX 4060      |
+| GPU Specs                GeForce RTX 4090       | GeForce RTX 4080      | GeForce RTX 4070 Ti    | GeForce RTX 4070      | GeForce RTX 4060 Ti   | GeForce RTX 4060      |
 |-------------------------|------------------------|------------------------|------------------------|-----------------------|-----------------------|
 | NVIDIA CUDA Cores       | 16384                 | 9728                  | 7680                  | 5888                 | 4352                 | 3072                 |
 | Shader Cores            | Ada Lovelace          | Ada Lovelace          | Ada Lovelace          | Ada Lovelace         | Ada Lovelace         | Ada Lovelace         |
