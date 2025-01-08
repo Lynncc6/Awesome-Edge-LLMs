@@ -4,7 +4,7 @@ A comprehensive survey on Edge AI，covering hardware, software, frameworks, app
 
 ## Open Source Edge Models
 
-The listed models are base model and are limited to either of the following, and are base model:
+The listed models are base model limited to either of the following:
 - Parameter ≤ 10B
 - Officially claimed edge models
 
@@ -14,14 +14,19 @@ The listed models are base model and are limited to either of the following, and
 |:-----------:|:--:|:--:|:-----------:|:---------------:|:---------------:|
 | [VITA-1.5](https://github.com/VITA-MLLM/VITA) | 7B | VITA | 2025.1.6 | - | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.01957) |
 | [InternVL 2.5](https://github.com/OpenGVLab/InternVL) | 8B | Shanghai AI Lab | 2024.12.22 | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) | - | 
+| OmniAudio | 2.6B | Nexa AI | 2024.12.12 | [🤗](https://huggingface.co/NexaAIDev/OmniAudio-2.6B) | [📖](https://nexa.ai/blogs/omniaudio-2.6b) | 
 | Phi-4 | 14B | Microsoft | 2024.12.12 | - | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.08905) |
+| Ministral | 3B 8B | Mistral AI | 2024.10.16 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/ministraux/) |
+| Pixtral 12B | 12B | Mistral AI | 2024.9.17 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/pixtral-12b/) |
 | Phi 3.5 | 3.8B 4.1B | Microsoft | 2024.8.21 | [🤗](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3) | - | 
 | [MiniCPM-V 2.6](https://github.com/OpenBMB/MiniCPM-V)  | 8B | OpenBMB | 2024.8.6 | [🤗](https://huggingface.co/openbmb/MiniCPM-V-2_6) | - |
 | SmolLM | 135M 360M 1.7B | Hugging Face | 2024.8.2 | [🤗](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) | [📖](https://huggingface.co/blog/smollm) |
 | [Gemma2](https://github.com/google-deepmind/gemma) | 2B 9B | Google | 2024.7.31 | [🤗](https://huggingface.co/google/gemma-2-2b)|[📖](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)|
-| DCLM 7B | 7B | Apple | 2024.7.18 | [🤗](https://huggingface.co/apple/DCLM-7B) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11794) |
+| [DCLM 7B](https://github.com/mlfoundations/dclm) | 7B | Apple | 2024.7.18 | [🤗](https://huggingface.co/apple/DCLM-7B) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11794) |
 | [Phi-3](https://github.com/microsoft/Phi-3CookBook/blob/main/README.md) | 3.8B 7B | Microsoft | 2024.4.23 | [🤗](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.14219)|
+| Mistral NeMo | 12B | Mistral AI | 2024.6.18 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/mistral-nemo/) |
 | [Gemma](https://github.com/google-deepmind/gemma) | 2B 7B | Google | 2024.2.21 |  [🤗](https://huggingface.co/collections/google/gemma-release-65d5efbccdbb8c4202ec078b)| [📖](https://storage.googleapis.com/deepmind-media/gemma/gemma-report.pdf) |
+| [Mistral 7B](https://github.com/mistralai/mistral-inference) | 2B 7B | Mistral AI | 2023.9.27 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/announcing-mistral-7b/) |
 
 ## LLM Inference 
 
@@ -31,7 +36,6 @@ The listed models are base model and are limited to either of the following, and
 | 2024.08 | [**Decentralized LLM**] Decentralized LLM Inference over Edge Networks with Energy Harvesting (@Padova) | [[pdf]](https://arxiv.org/pdf/2408.15907) | ⚠️ |
 | 2024.08 | [NanoFlow] NanoFlow: Towards Optimal Large Language Model Serving Throughput (@University of Washington) | [[pdf]](https://arxiv.org/pdf/2408.12757) | [![Stars](https://img.shields.io/github/stars/efeslab/Nanoflow.svg?style=social)](https://github.com/efeslab/Nanoflow) |
 | 2024.07 | [DynamoLLM] DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency (@Microsoft Azure Research) | [[pdf]](https://arxiv.org/pdf/2408.00741) | ⚠️ |
-| 2024.06 | [**Mooncake**] Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving (@Moonshot AI) | [[pdf]](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) | [![Stars](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social)](https://github.com/kvcache-ai/Mooncake) |
 | 2024.06 | [**Mooncake**] Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving (@Moonshot AI) | [[pdf]](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) | [![Stars](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social)](https://github.com/kvcache-ai/Mooncake) |
 | 2024.02 | [**flashinfer**] FlashInfer: Kernel Library for LLM Serving (@flashinfer-ai) | [[docs]](https://flashinfer.ai/2024/02/02/cascade-inference.html) | [![Stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer.svg?style=social)](https://github.com/flashinfer-ai/flashinfer) |
 | 2024.01 | [inferflow] INFERFLOW: AN EFFICIENT AND HIGHLY CONFIGURABLE INFERENCE ENGINE FOR LARGE LANGUAGE MODELS (@Tencent AI Lab) | [[pdf]](https://arxiv.org/pdf/2401.08294.pdf) | [![Stars](https://img.shields.io/github/stars/inferflow/inferflow.svg?style=social)](https://github.com/inferflow/inferflow) |
