@@ -36,9 +36,13 @@ The listed models are base model limited to either of the following:
 |:---:|:---:|:---:|:---:|
 | [DashInfer-VLM](https://github.com/modelscope/dash-infer) | 2025.1 | ModelScope | [📖](https://dashinfer.readthedocs.io/en/latest/vlm/vlm_offline_inference_en.html) |
 | SparseInfer | 2024.11 | University of Seoul, etc |  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.12692) |
-| [vLLM](https://github.com/vllm-project/vllm) | 2023.9 | UC Berkeley, etc | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.06180.pdf) | 
+| [Mooncake](https://github.com/kvcache-ai/Mooncake) | 2024.6 | Moonshot AI | [📖](https://flashinfer.ai/2024/02/02/cascade-inference.html) |
+| [flashinfer](https://github.com/flashinfer-ai/flashinfer) | 2024.2 | flashinfer-ai | [📖](https://flashinfer.ai/2024/02/02/cascade-inference.html)|
+| [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) | 2023.12 | SJTU | 
+| [vLLM](https://github.com/vllm-project/vllm) | 2023.9 | UC Berkeley, etc | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.06180.pdf) | [📖](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf) |
+| [MLC-LLM](https://github.com/mlc-ai/mlc-llm) | 2023.5 | mlc-ai | [📖](https://llm.mlc.ai/)  |
 | [Ollama](https://github.com/ollama/ollama) | 2023.8 | Ollama Inc | - | 
-| [Mooncake](https://github.com/kvcache-ai/Mooncake) | 2024.6 | Moonshot AI | [📖](https://flashinfer.ai/2024/02/02/cascade-inference.html)
+
 | [LMDeploy](https://github.com/InternLM/lmdeploy) | 2023.6 | InternLM | [📖](https://lmdeploy.readthedocs.io/en/latest/) |
 
 
@@ -46,10 +50,8 @@ The listed models are base model limited to either of the following:
 
 |Date|Title|Paper|Code|
 |:---:|:---:|:---:|:---:|
-
-| 2024.02 | [**flashinfer**] FlashInfer: Kernel Library for LLM Serving (@flashinfer-ai) | [[docs]](https://flashinfer.ai/2024/02/02/cascade-inference.html) | [![Stars](https://img.shields.io/github/stars/flashinfer-ai/flashinfer.svg?style=social)](https://github.com/flashinfer-ai/flashinfer) |
 | 2024.01 | [inferflow] INFERFLOW: AN EFFICIENT AND HIGHLY CONFIGURABLE INFERENCE ENGINE FOR LARGE LANGUAGE MODELS (@Tencent AI Lab) | [[pdf]](https://arxiv.org/pdf/2401.08294.pdf) | [![Stars](https://img.shields.io/github/stars/inferflow/inferflow.svg?style=social)](https://github.com/inferflow/inferflow) |
-| 2023.12 | [PowerInfer] PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU (@SJTU) | [[pdf]](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf) | [![Stars](https://img.shields.io/github/stars/SJTU-IPADS/PowerInfer.svg?style=social)](https://github.com/SJTU-IPADS/PowerInfer) |
+
 | 2023.12 | [**PETALS**] Distributed Inference and Fine-tuning of Large Language Models Over The Internet (@HSE University, etc) | [[pdf]](https://arxiv.org/pdf/2312.08361.pdf) | [![Stars](https://img.shields.io/github/stars/bigscience-workshop/petals.svg?style=social)](https://github.com/bigscience-workshop/petals) |
 | 2023.10 | [**TensorRT-LLM**] NVIDIA TensorRT LLM (@NVIDIA) | [[docs]](https://nvidia.github.io/TensorRT-LLM/) | [![Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social)](https://github.com/NVIDIA/TensorRT-LLM) |
 | 2023.10 | [LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers (@UC Berkeley, etc) | [[pdf]](https://arxiv.org/pdf/2310.03294.pdf) | [![Stars](https://img.shields.io/github/stars/RulinShao/LightSeq.svg?style=social)](https://github.com/RulinShao/LightSeq) |
@@ -58,12 +60,36 @@ The listed models are base model limited to either of the following:
 | 2023.09 | [Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads (@Tianle Cai, etc) | [[blog]](https://sites.google.com/view/medusa-llm) | [![Stars](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)](https://github.com/FasterDecoding/Medusa) |
 
 | 2023.08 | [**LightLLM**] LightLLM is a Python-based LLM (Large Language Model) inference and serving framework (@ModelTC) | [[docs]](https://github.com/ModelTC/lightllm) | [![Stars](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social)](https://github.com/ModelTC/lightllm) |
-| 2023.06 | [**LMDeploy**] LMDeploy: LMDeploy is a toolkit for compressing, deploying, and serving LLMs (@InternLM) | [[docs]](https://lmdeploy.readthedocs.io/en/latest/) | [![Stars](https://img.shields.io/github/stars/InternLM/lmdeploy.svg?style=social)](https://github.com/InternLM/lmdeploy) |
-| 2023.05 | [**MLC-LLM**] Universal LLM Deployment Engine with ML Compilation (@mlc-ai) | [[docs]](https://llm.mlc.ai/) | [![Stars](https://img.shields.io/github/stars/mlc-ai/mlc-llm.svg?style=social)](https://github.com/mlc-ai/mlc-llm) |
+
+
 | 2023.05 | [**SpecInfer**] Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification (@Peking University, etc) | [[pdf]](https://arxiv.org/pdf/2305.09781.pdf) | [![Stars](https://img.shields.io/github/stars/flexflow/FlexFlow.svg?style=social)](https://github.com/flexflow/FlexFlow/tree/inference) |
 | 2023.05 | [**FastServe**] Fast Distributed Inference Serving for Large Language Models (@Peking University, etc) | [[pdf]](https://arxiv.org/pdf/2305.05920.pdf) | - |
 | 2023.03 | [FlexGen] High-Throughput Generative Inference of Large Language Models with a Single GPU (@Stanford University, etc) | [[pdf]](https://arxiv.org/pdf/2303.06865.pdf) | [![Stars](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)](https://github.com/FMInference/FlexGen) |
 | 2020.05 | [**Megatron-LM**] Training Multi-Billion Parameter Language Models Using Model Parallelism (@NVIDIA) | [[pdf]](https://arxiv.org/pdf/1909.08053.pdf) | [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)](https://github.com/NVIDIA/Megatron-LM) |
+
+
+## Processor
+### NVIDIA
+
+50 Series
+
+| GPU Engine Specs       | GeForce RTX 5090       | GeForce RTX 5080       | GeForce RTX 5070 Ti    | GeForce RTX 5070       |
+|-------------------------|------------------------|-------------------------|-------------------------|------------------------|
+| NVIDIA CUDA Cores       | 21760                 | 10752                  | 8960                   | 6144                  |
+| Shader Cores            | Blackwell             | Blackwell              | Blackwell              | Blackwell             |
+| Tensor Cores (AI)       | 5th Generation        | 5th Generation         | 5th Generation         | 5th Generation        |
+|                         | 3352 AI TOPS          | 1801 AI TOPS           | 1406 AI TOPS           | 988 AI TOPS           |
+| Ray Tracing Cores       | 4th Generation        | 4th Generation         | 4th Generation         | 4th Generation        |
+|                         | 318 TFLOPS            | 171 TFLOPS             | 133 TFLOPS             | 94 TFLOPS             |
+| Boost Clock (GHz)       | 2.41                  | 2.62                   | 2.45                   | 2.51                  |
+| Base Clock (GHz)        | 2.01                  | 2.30                   | 2.30                   | 2.16                  |
+
+| Memory Specs            |      |     |     |        |
+
+| Standard Memory Config  | 32 GB GDDR7           | 16 GB GDDR7            | 16 GB GDDR7            | 12 GB GDDR7           |
+| Memory Interface Width  | 512-bit               | 256-bit                | 256-bit                | 192-bit               |
+
+
 
 
 ## Hardware Applications
@@ -89,8 +115,11 @@ The listed models are base model limited to either of the following:
 
 
 
+
+
 ### References
 [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
+
 [数字生命卡兹克- AI硬件大全](https://datakhazix.feishu.cn/wiki/Zfp6wzb8eivwMqkSNgLcuiExnJd) @数字生命卡兹克
 
 
