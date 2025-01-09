@@ -12,7 +12,7 @@ The listed models are base model limited to either of the following:
 
 | Model           | Size | Org | Time  | Download | Paper |
 |:-----------:|:--:|:--:|:-----------:|:---------------:|:---------------:|
-| Phi-4 | 14B | Microsoft | 2025.1.9 <br> 2024.12.12(release) | [🤗]https://huggingface.co/microsoft/phi-4 | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.08905) |
+| Phi-4 | 14B | Microsoft | 2025.1.9 <br> 2024.12.12(release) | [🤗](https://huggingface.co/microsoft/phi-4) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.08905) |
 | [VITA-1.5](https://github.com/VITA-MLLM/VITA) | 7B | VITA | 2025.1.6 | - | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.01957) |
 | [InternVL 2.5](https://github.com/OpenGVLab/InternVL) | 8B | OpenGVLab | 2024.12.22 | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) | - | 
 | OmniAudio | 2.6B | Nexa AI | 2024.12.12 | [🤗](https://huggingface.co/NexaAIDev/OmniAudio-2.6B) | [📖](https://nexa.ai/blogs/omniaudio-2.6b) | 
