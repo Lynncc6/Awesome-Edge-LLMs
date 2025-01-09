@@ -14,8 +14,9 @@ The listed models are base model limited to either of the following:
 |:-----------:|:--:|:--:|:-----------:|:---------------:|:---------------:|
 | Phi-4 | 14B | Microsoft | 2025.1.9 <br> 2024.12.12(release) | [🤗](https://huggingface.co/microsoft/phi-4) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.08905) |
 | [VITA-1.5](https://github.com/VITA-MLLM/VITA) | 7B | VITA | 2025.1.6 | - | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.01957) |
-| [InternVL 2.5](https://github.com/OpenGVLab/InternVL) | 8B | OpenGVLab | 2024.12.22 | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) | - | 
+| [Megrez-3B-Omni](https://github.com/infinigence/Infini-Megrez) | 3B | Infinigence | 2024.12.16 | [🤗](https://huggingface.co/Infinigence/Megrez-3B-Omni) | - |
 | OmniAudio | 2.6B | Nexa AI | 2024.12.12 | [🤗](https://huggingface.co/NexaAIDev/OmniAudio-2.6B) | [📖](https://nexa.ai/blogs/omniaudio-2.6b) | 
+| [InternVL 2.5](https://github.com/OpenGVLab/InternVL) | 8B | OpenGVLab | 2024.12.5 | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) | - | 
 | SmalVLM | 2B | Hugging Face | 2024.11.26 | [🤗](https://huggingface.co/HuggingFaceTB/SmolVLM-Base) | [📖](https://huggingface.co/blog/smolvlm) |
 | [SmalLM2](https://github.com/huggingface/smollm) | 135M 360M 1.7B | Hugging Face | 2024.11.1 | [🤗](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) | [📖](https://huggingface.co/blog/smollm) |
 | Ministral | 3B 8B | Mistral AI | 2024.10.16 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/ministraux/) |
@@ -120,7 +121,7 @@ The listed models are base model limited to either of the following:
 |:--:|:--:|:-----------:|:---------------:|:---------------:|
 | [雷鸟V3](https://mp.weixin.qq.com/s/NBn81ocRqLhDKmtGXZuX0w) | 雷鸟创新 | Qwen | 2025.1.7 | ¥ 1799 + | 
 | [闪极拍拍镜](https://mp.weixin.qq.com/s/exweWfZm1Eoc2LWM8tFsUg) | 闪极科技 | Qwen Kimi GLM, etc. | 2024.12.19 | ¥999 + |
-| INMO GO2 | 影目科技 | - | 2024.11.29 | ¥3999 ｜
+| INMO GO2 | 影目科技 | - | 2024.11.29 | ¥3999 |
 | Rokid Glasses | Rokid | Qwen | 2024.11.18 | ¥2499 |
 | Looktech | Looktech | ChatGPT Claude Gemini | 2024.11.16 | $199 | 
 | [Ray-Ban](https://www.ray-ban.com/usa) | Meta | Meta AI | 2023.9 | $299 | 
