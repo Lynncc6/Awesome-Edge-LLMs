@@ -118,7 +118,7 @@ The listed models are base model limited to either of the following:
 |:--:|:--:|:-----------:|:---------------:|:---------------:|
 | [雷鸟V3](https://mp.weixin.qq.com/s/NBn81ocRqLhDKmtGXZuX0w) | 雷鸟创新 | Qwen | 2025.1.7 | ¥ 1799 + | 
 | [闪极拍拍镜](https://mp.weixin.qq.com/s/exweWfZm1Eoc2LWM8tFsUg) | 闪极科技 | Qwen Kimi GLM, etc. | 2024.12.19 | ¥999 + |
-| INMO GO2 | 影目科技 | - ｜ 2024.11.29 ｜ ¥3999 ｜
+| INMO GO2 | 影目科技 | - | 2024.11.29 | ¥3999 ｜
 | Rokid Glasses | Rokid | Qwen | 2024.11.18 | ¥2499 |
 | Looktech | Looktech | ChatGPT Claude Gemini | 2024.11.16 | $199 | 
 | [Ray-Ban](https://www.ray-ban.com/usa) | Meta | Meta AI | 2023.9 | $299 | 
