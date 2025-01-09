@@ -38,29 +38,23 @@ The listed models are base model limited to either of the following:
 | SparseInfer | 2024.11 | University of Seoul, etc |  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2411.12692) |
 | [Mooncake](https://github.com/kvcache-ai/Mooncake) | 2024.6 | Moonshot AI | [📖](https://flashinfer.ai/2024/02/02/cascade-inference.html) |
 | [flashinfer](https://github.com/flashinfer-ai/flashinfer) | 2024.2 | flashinfer-ai | [📖](https://flashinfer.ai/2024/02/02/cascade-inference.html)|
-| [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) | 2023.12 | SJTU | 
+| [inferflow](https://github.com/inferflow/inferflow) | 2024.2 | Tencent AI Lab | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2401.08294.pdf) | 
+| [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer) | 2023.12 | SJTU |  |
+| [PETALS](https://github.com/bigscience-workshop/petals) | 2023.12 | HSE University, etc | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2312.08361.pdf) |
+| [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)  | 2023.10 | NVIDIA | - |
+| [LightSeq](https://github.com/RulinShao/LightSeq) | 2023.10 | UC Berkeley, etc | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.03294.pdf)  |
 | [vLLM](https://github.com/vllm-project/vllm) | 2023.9 | UC Berkeley, etc | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.06180.pdf) | [📖](https://ipads.se.sjtu.edu.cn/_media/publications/powerinfer-20231219.pdf) |
+| [StreamingLLM](https://github.com/mit-han-lab/streaming-llm) | 2023.9 | Meta AI, etc | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2309.17453.pdf)  |
 | [MLC-LLM](https://github.com/mlc-ai/mlc-llm) | 2023.5 | mlc-ai | [📖](https://llm.mlc.ai/)  |
+| [Medusa](https://github.com/FasterDecoding/Medusa)  | 2023.9 | Tianle Cai, etc |  [📖](https://sites.google.com/view/medusa-llm) | 
+| [LightLLM](https://github.com/ModelTC/lightllm) | 2023.8 | ModelTC | - |
+| FastServe | 2023.5 | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.05920.pdf) |
+| [SpecInfer](https://github.com/flexflow/FlexFlow/tree/inference)  | 2023.05 | Peking University, etc |[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)] (https://arxiv.org/pdf/2305.09781.pdf) |
 | [Ollama](https://github.com/ollama/ollama) | 2023.8 | Ollama Inc | - | 
 | [LMDeploy](https://github.com/InternLM/lmdeploy) | 2023.6 | InternLM | [📖](https://lmdeploy.readthedocs.io/en/latest/) |
+| [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)| 2020.5 | NVIDIA | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/1909.08053.pdf) | 
 
 
-
-
-
-|Date|Title|Paper|Code|
-|:---:|:---:|:---:|:---:|
-| 2024.01 | [inferflow] INFERFLOW: AN EFFICIENT AND HIGHLY CONFIGURABLE INFERENCE ENGINE FOR LARGE LANGUAGE MODELS (@Tencent AI Lab) | [[pdf]](https://arxiv.org/pdf/2401.08294.pdf) | [![Stars](https://img.shields.io/github/stars/inferflow/inferflow.svg?style=social)](https://github.com/inferflow/inferflow) |
-| 2023.12 | [**PETALS**] Distributed Inference and Fine-tuning of Large Language Models Over The Internet (@HSE University, etc) | [[pdf]](https://arxiv.org/pdf/2312.08361.pdf) | [![Stars](https://img.shields.io/github/stars/bigscience-workshop/petals.svg?style=social)](https://github.com/bigscience-workshop/petals) |
-| 2023.10 | [**TensorRT-LLM**] NVIDIA TensorRT LLM (@NVIDIA) | [[docs]](https://nvidia.github.io/TensorRT-LLM/) | [![Stars](https://img.shields.io/github/stars/NVIDIA/TensorRT-LLM.svg?style=social)](https://github.com/NVIDIA/TensorRT-LLM) |
-| 2023.10 | [LightSeq] LightSeq: Sequence Level Parallelism for Distributed Training of Long Context Transformers (@UC Berkeley, etc) | [[pdf]](https://arxiv.org/pdf/2310.03294.pdf) | [![Stars](https://img.shields.io/github/stars/RulinShao/LightSeq.svg?style=social)](https://github.com/RulinShao/LightSeq) |
-| 2023.09 | [StreamingLLM] EFFICIENT STREAMING LANGUAGE MODELS WITH ATTENTION SINKS (@Meta AI, etc) | [[pdf]](https://arxiv.org/pdf/2309.17453.pdf) | [![Stars](https://img.shields.io/github/stars/mit-han-lab/streaming-llm.svg?style=social)](https://github.com/mit-han-lab/streaming-llm) |
-| 2023.09 | [Medusa] Medusa: Simple Framework for Accelerating LLM Generation with Multiple Decoding Heads (@Tianle Cai, etc) | [[blog]](https://sites.google.com/view/medusa-llm) | [![Stars](https://img.shields.io/github/stars/FasterDecoding/Medusa.svg?style=social)](https://github.com/FasterDecoding/Medusa) |
-| 2023.08 | [**LightLLM**] LightLLM is a Python-based LLM (Large Language Model) inference and serving framework (@ModelTC) | [[docs]](https://github.com/ModelTC/lightllm) | [![Stars](https://img.shields.io/github/stars/ModelTC/lightllm.svg?style=social)](https://github.com/ModelTC/lightllm) |
-| 2023.05 | [**SpecInfer**] Accelerating Generative Large Language Model Serving with Speculative Inference and Token Tree Verification (@Peking University, etc) | [[pdf]](https://arxiv.org/pdf/2305.09781.pdf) | [![Stars](https://img.shields.io/github/stars/flexflow/FlexFlow.svg?style=social)](https://github.com/flexflow/FlexFlow/tree/inference) |
-| 2023.05 | [**FastServe**] Fast Distributed Inference Serving for Large Language Models (@Peking University, etc) | [[pdf]](https://arxiv.org/pdf/2305.05920.pdf) | - |
-| 2023.03 | [FlexGen] High-Throughput Generative Inference of Large Language Models with a Single GPU (@Stanford University, etc) | [[pdf]](https://arxiv.org/pdf/2303.06865.pdf) | [![Stars](https://img.shields.io/github/stars/FMInference/FlexGen.svg?style=social)](https://github.com/FMInference/FlexGen) |
-| 2020.05 | [**Megatron-LM**] Training Multi-Billion Parameter Language Models Using Model Parallelism (@NVIDIA) | [[pdf]](https://arxiv.org/pdf/1909.08053.pdf) | [![Stars](https://img.shields.io/github/stars/NVIDIA/Megatron-LM.svg?style=social)](https://github.com/NVIDIA/Megatron-LM) |
 
 
 ## Processor
@@ -80,7 +74,22 @@ The listed models are base model limited to either of the following:
 | Memory Interface Width  | 512-bit               | 256-bit                | 256-bit                | 192-bit               |
 | Price                   | $1999                 | $999                   | $749                   | $549                   |
 
+
 ✅ 40 Super Series @2024
+
+| GPU Specs               | GeForce RTX 4080 Super | GeForce RTX 4070 Ti Super | GeForce RTX 4070 Super |
+|:-------------------------:|:------------------------:|:-------------------------:|:-------------------------:|
+| CUDA Cores             | 10,240                | 8448                     | 7168                  |
+| Memory Configuration   | 16 GB GDDR6X          | 16 GB GDDR6X              | 12 GB GDDR6X           |
+| Memory Interface Width | 256-bit               | 256-bit                   | 256-bit                |
+| Memory Bandwidth       | 736 GB/s              | 736 GB/s                  | 736 GB/s               |
+| Base Clock (GHz)       | 2.21 GHz              | 2.31 GHz                  | 1.92 GHz               |
+| Boost Clock (GHz)      | 2.55 GHz              | 2.61 GHz                  | 2.48 GHz               |
+| Graphics Card Power    | 320W                  | 285W                      | 200W                   |
+| Recommended PSU        | 750W                  | 700W                      | 650W                   |
+| Price     | $999                  | $799                      | $599                   |
+
+
 
 
 ✅ 40 Series @2022
@@ -97,7 +106,7 @@ The listed models are base model limited to either of the following:
 | Memory Interface Width  | 384-bit               | 256-bit               | 192-bit               | 192-bit              | 128-bit              | 128-bit              |
 | Graphics Card Power (W) | 450W                  | 320W                  | 285W                  | 200W                 | 160W                 | 115W                 |
 | Recommended PSU (W)     | 850W                  | 750W                  | 700W                  | 650W                 | 550W                 | 450W                 |
-| Launch Price (USD)      | $1,599                | $1,199                | $799                  | $599                 | $399 (8GB)<br>$499 (16GB) | $299            |
+| Price      | $1,599                | $1,199                | $799                  | $599                 | $399 (8GB)<br>$499 (16GB) | $299            |
 
 
 
@@ -126,8 +135,9 @@ The listed models are base model limited to either of the following:
 
 
 
+### Reference
+[Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device)
 
-### References
 [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
 [数字生命卡兹克- AI硬件大全](https://datakhazix.feishu.cn/wiki/Zfp6wzb8eivwMqkSNgLcuiExnJd) @数字生命卡兹克
