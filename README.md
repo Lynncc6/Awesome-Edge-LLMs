@@ -32,6 +32,11 @@ The listed models are base model limited to either of the following:
 | [Mistral 7B](https://github.com/mistralai/mistral-inference) | 2B 7B | Mistral AI | 2023.9.27 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/announcing-mistral-7b/) |
 
 
+Embodied Model
+
+
+
+
 
 ## LLM Inference 
 
