@@ -17,6 +17,7 @@ The listed models are base model limited to either of the following:
 | [Megrez-3B-Omni](https://github.com/infinigence/Infini-Megrez) | 3B | Infinigence | 2024.12.16 | [🤗](https://huggingface.co/Infinigence/Megrez-3B-Omni) | - |
 | OmniAudio | 2.6B | Nexa AI | 2024.12.12 | [🤗](https://huggingface.co/NexaAIDev/OmniAudio-2.6B) | [📖](https://nexa.ai/blogs/omniaudio-2.6b) | 
 | [InternVL 2.5](https://github.com/OpenGVLab/InternVL) | 8B | OpenGVLab | 2024.12.5 | [🤗](https://huggingface.co/collections/OpenGVLab/internvl25-673e1019b66e2218f68d7c1c) | - | 
+| [GLM-Edge](https://github.com/THUDM/GLM-Edge?tab=readme-ov-file) | 1.5B 2B 4B 5B | THUDM | 2024.11.29 | [🤗](https://huggingface.co/THUDM/glm-edge-1.5b-chat) | - | 
 | SmalVLM | 2B | Hugging Face | 2024.11.26 | [🤗](https://huggingface.co/HuggingFaceTB/SmolVLM-Base) | [📖](https://huggingface.co/blog/smolvlm) |
 | [SmalLM2](https://github.com/huggingface/smollm) | 135M 360M 1.7B | Hugging Face | 2024.11.1 | [🤗](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) | [📖](https://huggingface.co/blog/smollm) |
 | Ministral | 3B 8B | Mistral AI | 2024.10.16 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/ministraux/) |
