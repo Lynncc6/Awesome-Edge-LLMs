@@ -21,7 +21,9 @@ The listed models are base model limited to either of the following:
 | SmalVLM | 2B | Hugging Face | 2024.11.26 | [🤗](https://huggingface.co/HuggingFaceTB/SmolVLM-Base) | [📖](https://huggingface.co/blog/smolvlm) |
 | [SmalLM2](https://github.com/huggingface/smollm) | 135M 360M 1.7B | Hugging Face | 2024.11.1 | [🤗](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) | [📖](https://huggingface.co/blog/smollm) |
 | Ministral | 3B 8B | Mistral AI | 2024.10.16 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/ministraux/) |
+| Qwen2.5 | 0.5B, 1.5B, 3B, 7B | Qwen | 2024.9.19 | [🤗](https://huggingface.co/collections/Qwen/qwen25-66e81a666513e518adb90d9e) | [📖](https://qwenlm.github.io/blog/qwen2.5/)|
 | Pixtral 12B | 12B | Mistral AI | 2024.9.17 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/pixtral-12b/) |
+| Qwen2-VL | 2B 7B | Qwen | 2024.8.30 | [🤗](https://huggingface.co/collections/Qwen/qwen2-vl-66cee7455501d7126940800d) | [📖](https://qwenlm.github.io/blog/qwen2-vl/)
 | Phi 3.5 | 3.8B 4.1B | Microsoft | 2024.8.21 | [🤗](https://huggingface.co/collections/microsoft/phi-3-6626e15e9585a200d2d761e3) | - | 
 | [MiniCPM-V 2.6](https://github.com/OpenBMB/MiniCPM-V)  | 8B | OpenBMB | 2024.8.6 | [🤗](https://huggingface.co/openbmb/MiniCPM-V-2_6) | - |
 | [SmolLM](https://github.com/huggingface/smollm) | 135M 360M 1.7B | Hugging Face | 2024.8.2 | [🤗](https://huggingface.co/collections/HuggingFaceTB/smollm-6695016cad7167254ce15966) | [📖](https://huggingface.co/blog/smollm) |
