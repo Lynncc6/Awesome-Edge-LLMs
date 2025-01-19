@@ -60,7 +60,7 @@ The listed models are base model limited to either of the following:
 | [MLC-LLM](https://github.com/mlc-ai/mlc-llm) | 2023.5 | mlc-ai | [📖](https://llm.mlc.ai/)  |
 | [Medusa](https://github.com/FasterDecoding/Medusa)  | 2023.9 | Tianle Cai, etc |  [📖](https://sites.google.com/view/medusa-llm) | 
 | [LightLLM](https://github.com/ModelTC/lightllm) | 2023.8 | ModelTC | - |
-| FastServe | 2023.5 | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.05920.pdf) |
+| FastServe | 2023.5 | Peking University | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.05920.pdf)
 | [SpecInfer](https://github.com/flexflow/FlexFlow/tree/inference)  | 2023.05 | Peking University, etc |[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2305.09781.pdf) |
 | [Ollama](https://github.com/ollama/ollama) | 2023.8 | Ollama Inc | - | 
 | [LMDeploy](https://github.com/InternLM/lmdeploy) | 2023.6 | InternLM | [📖](https://lmdeploy.readthedocs.io/en/latest/) |
