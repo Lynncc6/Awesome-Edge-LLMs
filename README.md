@@ -12,6 +12,7 @@ The listed models are base model limited to either of the following:
 
 | Model           | Size | Org | Time  | Download | Paper |
 |:-----------:|:--:|:--:|:-----------:|:---------------:|:---------------:|
+| [MiniCPM-o 2.6](https://github.com/OpenBMB/MiniCPM-o) | 8B | OpeBMB | 2025.1.14 | [🤗](https://huggingface.co/openbmb/MiniCPM-o-2_6) | - |
 | Phi-4 | 14B | Microsoft | 2025.1.9 <br> 2024.12.12(release) | [🤗](https://huggingface.co/microsoft/phi-4) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.08905) |
 | [VITA-1.5](https://github.com/VITA-MLLM/VITA) | 7B | VITA | 2025.1.6 | - | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.01957) |
 | [Megrez-3B-Omni](https://github.com/infinigence/Infini-Megrez) | 3B | Infinigence | 2024.12.16 | [🤗](https://huggingface.co/Infinigence/Megrez-3B-Omni) | - |
@@ -35,7 +36,7 @@ The listed models are base model limited to either of the following:
 | [Mistral 7B](https://github.com/mistralai/mistral-inference) | 2B 7B | Mistral AI | 2023.9.27 |  [🤗](https://huggingface.co/mistralai)| [📖](https://mistral.ai/news/announcing-mistral-7b/) |
 
 
-Embodied Model
+**Embodied Model**
 
 
 
