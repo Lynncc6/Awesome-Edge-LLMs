@@ -140,19 +140,12 @@ The listed models are base model limited to either of the following:
 
 
 
-
-
-
-
-
-
-
 ### Reference
 [Awesome-LLMs-on-device](https://github.com/NexaAI/Awesome-LLMs-on-device)
 
 [Awesome-LLM-Inference](https://github.com/DefTruth/Awesome-LLM-Inference)
 
-[数字生命卡兹克- AI硬件大全](https://datakhazix.feishu.cn/wiki/Zfp6wzb8eivwMqkSNgLcuiExnJd) @数字生命卡兹克
+[数字生命卡兹克- AI硬件大全](https://datakhazix.feishu.cn/wiki/Zfp6wzb8eivwMqkSNgLcuiExnJd) 
 
 
 
