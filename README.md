@@ -12,6 +12,7 @@ The listed models are base model limited to either of the following:
 
 | Model           | Size | Org | Time  | Download | Paper |
 |:-----------:|:--:|:--:|:-----------:|:---------------:|:---------------:|
+| [SmalLM3](https://github.com/huggingface/smollm) | 3B | Hugging Face | 2025.7.9 | [🤗](https://huggingface.co/HuggingFaceTB/SmolLM3-3B) | [📖](https://huggingface.co/blog/smollm3) |
 | [MiniCPM4](https://github.com/OpenBMB/MiniCPM) | 8B | OpenBMB | 2025.6.6 | [🤗]([https://huggingface.co/openbmb/MiniCPM4](https://huggingface.co/collections/openbmb/minicpm4-6841ab29d180257e940baa9b)) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.07900) |
 | [Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) | 7B | Qwen | 2025.3.26 | [🤗](https://huggingface.co/collections/Qwen/qwen25-omni-67de1e5f0f9464dc6314b36e) |  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20215)  |
 | [MiniCPM-o 2.6](https://github.com/OpenBMB/MiniCPM-o) | 8B | OpenBMB | 2025.1.14 | [🤗](https://huggingface.co/openbmb/MiniCPM-o-2_6) | - |
