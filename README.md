@@ -12,7 +12,9 @@ The listed models are base model limited to either of the following:
 
 | Model           | Size | Org | Time  | Download | Paper |
 |:-----------:|:--:|:--:|:-----------:|:---------------:|:---------------:|
-| [MiniCPM-o 2.6](https://github.com/OpenBMB/MiniCPM-o) | 8B | OpeBMB | 2025.1.14 | [🤗](https://huggingface.co/openbmb/MiniCPM-o-2_6) | - |
+| [MiniCPM4]([https://github.com/OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM)) | 8B | OpenBMB | 2025.6.6 | [🤗]([https://huggingface.co/openbmb/MiniCPM4](https://huggingface.co/collections/openbmb/minicpm4-6841ab29d180257e940baa9b)) | ![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)]((https://arxiv.org/abs/2506.07900) |
+| [Qwen2.5-Omni](https://github.com/QwenLM/Qwen2.5-Omni) | 7B | Qwen | 2025.3.26 | [🤗](https://huggingface.co/collections/Qwen/qwen25-omni-67de1e5f0f9464dc6314b36e) |  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.20215)  |
+| [MiniCPM-o 2.6](https://github.com/OpenBMB/MiniCPM-o) | 8B | OpenBMB | 2025.1.14 | [🤗](https://huggingface.co/openbmb/MiniCPM-o-2_6) | - |
 | Phi-4 | 14B | Microsoft | 2025.1.9 <br> 2024.12.12(release) | [🤗](https://huggingface.co/microsoft/phi-4) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2412.08905) |
 | [VITA-1.5](https://github.com/VITA-MLLM/VITA) | 7B | VITA | 2025.1.6 | - | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2501.01957) |
 | [Megrez-3B-Omni](https://github.com/infinigence/Infini-Megrez) | 3B | Infinigence | 2024.12.16 | [🤗](https://huggingface.co/Infinigence/Megrez-3B-Omni) | - |
